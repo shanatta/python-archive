@@ -1,0 +1,16 @@
+#Elif Statement
+
+#else if statement
+
+print("============Elif Statement============")
+nama = input("Nama: ")
+
+if nama == "kaori": #kondisi 1
+    print("-kamu cicak") #aksi true 1
+elif nama == "komi": #kondisi 2
+    print("-kamu kodok") #aksi true 2
+elif nama == "nata":
+    print("-kamu nata") #aksi true 3
+else:
+    print("-siapa cb") #aksi false
+print("end") 
