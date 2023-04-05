@@ -1,2 +1,2 @@
 # python-archive
-python syntax archive
+some python material archive
